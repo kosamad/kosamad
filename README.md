@@ -1,4 +1,4 @@
-## Hello,
+## Hello!
 
 I'm Karen Samad, a Junior Full-Stack Software Developer, currently studying on Code Institute's Level 5 Diploma in Web Application Development. 
 Take a look at the projects I've created and if you want to get in touch, contact me:
