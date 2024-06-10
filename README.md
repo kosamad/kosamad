@@ -8,17 +8,16 @@ Take a look at the projects I've created in the pinned section below and if you 
 
 ### 💻 Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Gitpod](https://img.shields.io/badge/-Gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoWidth=40)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoWidth=40)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white&logoWidth=40)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=40)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=40)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoWidth=40)
+![Gitpod](https://img.shields.io/badge/-Gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white&logoWidth=40)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40)
 
 ### 🌱 I’m currently learning:
 
