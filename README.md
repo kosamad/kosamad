@@ -30,10 +30,10 @@ Take a look at the projects I've created in the pinned section below and if you 
 
 ### 🌱 I’m currently learning:
 
+![Hugo](https://img.shields.io/badge/hugo-%23000.svg?style=flat-square&logo=hugo&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ### ⚡️ My STATs
 
