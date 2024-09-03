@@ -12,7 +12,7 @@ Take a look at the projects I've created in the pinned section below and if you 
 * Course Grades:
     * Project 1 - [SomScience](https://github.com/kosamad/SomScience) grade - Distinction
     * Project 2 - [Cosmo-Keys](https://github.com/kosamad/Cosmo-Keys) grade - Merit
-    * Project 3 - [little-explorers](https://github.com/kosamad/little-explorers) grade - (marking in progress)
+    * Project 3 - [little-explorers](https://github.com/kosamad/little-explorers) grade - Distinction
 
 ### 💻 Technologies
 
