@@ -29,7 +29,7 @@ Take a look at the projects I've created in the pinned section below and if you 
 ![Gitpod](https://img.shields.io/badge/-Gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white))
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
@@ -45,4 +45,4 @@ Take a look at the projects I've created in the pinned section below and if you 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosamad&hide=TeX&layout=compact)
 
 ### Credit
-![Badges source](https://github.com/Ileriayo/markdown-badges)
+[Badges source](https://github.com/Ileriayo/markdown-badges)
