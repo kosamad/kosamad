@@ -44,5 +44,5 @@ Take a look at the projects I've created in the pinned section below and if you 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosamad&hide=TeX&layout=compact)
 
-### Credit
+### 🔍️ Credit
 [Badges source](https://github.com/Ileriayo/markdown-badges)
