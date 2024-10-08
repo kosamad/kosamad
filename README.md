@@ -4,7 +4,7 @@ I'm Karen Samad, a Junior Full-Stack Software Developer, currently studying on C
 Take a look at the projects I've created in the pinned section below and if you want to get in touch, contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-karenlsamad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karenlsamad@gmail.com)](karenlsamad@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-KarenSamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-samad-n%C3%A8e-onions-phd-0376a9149/)](https://www.linkedin.com/in/karen-samad-n%C3%A8e-onions-phd-0376a9149/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-samad-developer159/)
 
 
 ## 🏆 Recent Achievements
