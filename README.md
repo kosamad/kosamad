@@ -1,7 +1,7 @@
 ## Hello!
 
 I'm Karen Samad, a Junior Full-Stack Software Developer with a Level 5 Diploma in Web Application Development. 
-Take a look at the projects I've created in the pinned section below and if you want to get in touch, contact me:
+Take a look at the projects I've created in my portfolio and if you want to get in touch, contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-karenlsamad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karenlsamad@gmail.com)](mailto:karenlsamad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-samad-developer159/)
