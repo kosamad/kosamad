@@ -8,10 +8,10 @@ Take a look at the projects I've created in my portfolio and if you want to get 
 
 ## 🔍 Portfolio
 * Level 5 Diploma in Web Application Development:
-   * Project 4 - [The Meadow Project](https://github.com/kosamad/the-meadow-project) grade - Distinction
-   * Project 3 - [Little Explorers](https://github.com/kosamad/little-explorers) grade - Distinction
-   * Project 2 - [Cosmo Keys](https://github.com/kosamad/Cosmo-Keys) grade - Merit 
-   * Project 1 - [SomScience](https://github.com/kosamad/SomScience) grade - Distinction
+   * Project 4 - [The Meadow Project](https://github.com/kosamad/the-meadow-project) (grade - Distinction)
+   * Project 3 - [Little Explorers](https://github.com/kosamad/little-explorers) (grade - Distinction)
+   * Project 2 - [Cosmo Keys](https://github.com/kosamad/Cosmo-Keys) (grade - Merit)
+   * Project 1 - [SomScience](https://github.com/kosamad/SomScience) (grade - Distinction)
 * LetterAssist:
    * This site is under construction but I can provide a video walkthrough of the project and designs upon request. 
    
